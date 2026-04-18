@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../TodoApp.NUnitTests/TodoApp.NUnitTests.csproj" Id="c84a0ffc-546d-4c78-9005-d8806d500913" />
   <Project Path="TodoApp.csproj" />
 </Solution>

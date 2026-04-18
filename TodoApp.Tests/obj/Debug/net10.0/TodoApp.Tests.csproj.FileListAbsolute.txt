@@ -1,0 +1,8 @@
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_TodoApp.Tests
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_TodoApp.Tests
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\obj\Debug\net10.0\TodoApp.Tests.csproj.AssemblyReference.cache
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\obj\Debug\net10.0\TodoApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\obj\Debug\net10.0\TodoApp.Tests.AssemblyInfoInputs.cache
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\obj\Debug\net10.0\TodoApp.Tests.AssemblyInfo.cs
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\obj\Debug\net10.0\TodoApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Lab_2_TSPP\TodoApp.Tests\obj\Debug\net10.0\TodoApp.Tests.sourcelink.json

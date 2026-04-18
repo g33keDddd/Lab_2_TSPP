@@ -1,18 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TodoApp\\",
+  "WorkspaceRootPath": "C:\\Users\\maksi\\Lab_2_TSPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A43D4177-D4D0-41FA-B67C-7B92C5CCA411}|TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43D4177-D4D0-41FA-B67C-7B92C5CCA411}|TodoApp.csproj|solutionrelative:itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C84A0FFC-546D-4C78-9005-D8806D500913}|..\\TodoApp.NUnitTests\\TodoApp.NUnitTests.csproj|c:\\users\\maksi\\todoapp.nunittests\\itemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43D4177-D4D0-41FA-B67C-7B92C5CCA411}|TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43D4177-D4D0-41FA-B67C-7B92C5CCA411}|TodoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|TodoApp.csproj|c:\\users\\maksi\\lab_2_tspp\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|TodoApp.csproj|solutionrelative:itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43D4177-D4D0-41FA-B67C-7B92C5CCA411}|TodoApp.csproj|c:\\users\\user\\source\\repos\\todoapp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43D4177-D4D0-41FA-B67C-7B92C5CCA411}|TodoApp.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|TodoApp.csproj|c:\\users\\maksi\\lab_2_tspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|TodoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|TodoApp.csproj|c:\\users\\maksi\\lab_2_tspp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1FC31A-B2B1-B8B9-4A0A-B10C59FB9880}|TodoApp.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +25,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ItemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\maksi\\TodoApp.NUnitTests\\ItemServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\TodoApp.NUnitTests\\ItemServiceTests.cs",
+              "ToolTip": "C:\\Users\\maksi\\TodoApp.NUnitTests\\ItemServiceTests.cs*",
+              "RelativeToolTip": "..\\TodoApp.NUnitTests\\ItemServiceTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:26:02.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TodoApp\\ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\maksi\\Lab_2_TSPP\\ItemService.cs",
               "RelativeDocumentMoniker": "ItemService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TodoApp\\ItemService.cs",
+              "ToolTip": "C:\\Users\\maksi\\Lab_2_TSPP\\ItemService.cs",
               "RelativeToolTip": "ItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T11:15:35.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TodoApp\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\maksi\\Lab_2_TSPP\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TodoApp\\Item.cs",
+              "ToolTip": "C:\\Users\\maksi\\Lab_2_TSPP\\Item.cs",
               "RelativeToolTip": "Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TodoApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksi\\Lab_2_TSPP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\maksi\\Lab_2_TSPP\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
